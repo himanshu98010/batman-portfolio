@@ -1,22 +1,6 @@
 const EducationExperienceSection = () => {
   const experiences = [
     {
-      type: "experience",
-      title: "Fullstack Developer",
-      company: "Info Solutions",
-      period: "2022 - Present",
-      description:
-        "Leading development of enterprise web applications, mentoring junior developers, and architecting scalable solutions.",
-    },
-    {
-      type: "experience",
-      title: "Frontend Developer",
-      company: "Digital Innovations",
-      period: "2022 - 2024",
-      description:
-        "Developed responsive web applications using React and Vue.js, collaborated with UX/UI teams to create engaging user experiences.",
-    },
-    {
       type: "education",
       title: "Bachelor of Technology in Computer Science",
       company: "Mumbai University",
@@ -27,10 +11,9 @@ const EducationExperienceSection = () => {
     {
       type: "education",
       title: "Full Stack Web Development",
-      company: "Harkirat cohort 3",
-      period: "2024-2025",
+      company: "Self Learning",
       description:
-        "Intensive program covering modern web development technologies, databases, and deployment strategies.",
+        "Modern web development technologies, databases, and deployment strategies.",
     },
   ];
 
